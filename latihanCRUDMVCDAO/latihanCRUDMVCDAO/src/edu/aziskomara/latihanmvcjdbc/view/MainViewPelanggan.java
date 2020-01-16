@@ -9,10 +9,10 @@ import java.sql.SQLException;
 import edu.aziskomara.latihanmvcjdbc.error.PelangganException;
 
 /**
- *Nama : Muhammad Ihsan
- * NIM : 10118037
- * Kelas : IF-1 2018
- * @author Muhammad Ihsan
+ * Nama : Azis komara
+ * NIM : 10118029
+ * Kelas : IF-1 
+ * @author Azis Komara
  */
 public class MainViewPelanggan extends javax.swing.JFrame {
 

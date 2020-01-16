@@ -21,10 +21,10 @@ import edu.aziskomara.latihanmvcjdbc.model.TabelPelangganModel;
 import edu.aziskomara.latihanmvcjdbc.service.PelangganDAO;
 
 /**
- *Nama : Muhammad Ihsan
- * NIM : 10118037
- * Kelas : IF-1 2018
- * @author Muhammad Ihsan
+ * Nama : Azis komara
+ * NIM : 10118029
+ * Kelas : IF-1 
+ * @author Azis Komara
  */
 public class PelangganView extends javax.swing.JPanel implements PelangganListener,ListSelectionListener{
 
